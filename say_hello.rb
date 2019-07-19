@@ -5,10 +5,3 @@ def say_hello(name)
   puts "Hello #{name}!"
 end
 
-def say_hello(name)
-  name == name
-  while name < 1
-  puts "Hello #{name}!"
-  end
-end
-  
